@@ -90,12 +90,14 @@ On my github profile you can find some of the projects I have worked on and on m
 ---
 ## **📊 Stats**
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuior98&show_icons=true&locale=en&layout=compact&langs_count=20" alt="samuior98"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuior98&show_icons=true&locale=en&layout=compact&langs_count=20&theme=github_dark" alt="samuior98"/>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuior98&show_icons=true&locale=en&theme=gotham" alt="samuior98"/>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuior98&show_icons=true&locale=en&theme=github_dark&rank_icon=github&include_all_commits=true" alt="samuior98"/>
 </p>
+
+
 
 ---
 ## **📫 How to reach me**

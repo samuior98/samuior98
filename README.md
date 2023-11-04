@@ -1,7 +1,7 @@
 # Hi there, I'm **Samuele Iorio** ! 👋
 
 🎓I'm graduated in **Computer Engineering** at UNICAL.
-In addition to my degree, I have also completed a **intensive online live course (560 h) in Junior Java Developer** (https://italy.generation.org/sviluppatore-java/).
+In addition to my degree, I have also completed (11/2023) a **intensive (560 h) online live course in Junior Java Developer** (https://italy.generation.org/sviluppatore-java/).
 
 On my github profile you can find some of the projects I have worked on and on my CV information about my career and professional background.
 

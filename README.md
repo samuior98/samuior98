@@ -94,7 +94,7 @@ On my github profile you can find some of the projects I have worked on and on m
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuior98&show_icons=true&locale=en" alt="samuior98"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuior98&show_icons=true&locale=en&theme=gotham" alt="samuior98"/>
 </p>
 
 ---

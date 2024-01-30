@@ -8,10 +8,10 @@ On my github profile you can find some of the projects I have worked on and on m
 ---
 ## **😊 About me**
 
-- 🔭 I'm currently an intern at VT as a Devops
-- 🌱 I'm learning role of devops
+- 🔭 I'm currently an intern at VT as a DevOps
+- 🌱 I'm learning role of DevOps
 - 👯 I'm looking to start...
-- 🤔 I'm looking for help finding a job.
+- 🤔 I'm looking for...
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
 

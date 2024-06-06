@@ -8,8 +8,8 @@ On my github profile you can find some of the projects I have worked on and on m
 ---
 ## **😊 About me**
 
-- 🔭 I'm currently an intern at VT as a DevOps
-- 🌱 I'm learning role of DevOps
+- 🔭 I'm currently searching...
+- 🌱 I'm learning...
 - 👯 I'm looking to start...
 - 🤔 I'm looking for...
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
@@ -54,8 +54,16 @@ On my github profile you can find some of the projects I have worked on and on m
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -78,13 +86,6 @@ On my github profile you can find some of the projects I have worked on and on m
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
   
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -102,5 +103,11 @@ On my github profile you can find some of the projects I have worked on and on m
 ---
 ## **📫 How to reach me**
 <p align="left">
-  <a href="https://linkedin.com/in/samuele-iorio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuele-iorio" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/samuele-iorio" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuele-iorio" height="30" width="40"/>
+  </a>
+
+  <a href="mailto:samuele.iorio@proton.me" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/14478/email.svg" alt="email" height="40" width="40"/>
+  </a>
 </p>

@@ -18,6 +18,9 @@ On my github profile you can find some of the projects I have worked on and on m
 ---
 ## **Languages and Tools**
 <p align="left">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="70" height="70"/>
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
